@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningSingleton", "LearningSingleton.csproj", "{A13490B7-2622-463B-801C-7833E3EEFBF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13490B7-2622-463B-801C-7833E3EEFBF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13490B7-2622-463B-801C-7833E3EEFBF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13490B7-2622-463B-801C-7833E3EEFBF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13490B7-2622-463B-801C-7833E3EEFBF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48F8EA44-B02D-4F82-B45A-FDAB73AD6BC2}
+	EndGlobalSection
+EndGlobal
